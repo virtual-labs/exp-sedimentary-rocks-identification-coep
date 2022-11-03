@@ -1,5 +1,5 @@
 
-# INTRODUCTION
+### INTRODUCTION
 - The rocks formed from sediments are called as ‘Sedimentary rocks’.
 - The total amount of sedimentary rocks that exist in upper 16 km of earth’s crust is estimated to be only about 5%.
 - These rocks are found chiefly as an extensive cover over continents.
