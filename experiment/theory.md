@@ -5,6 +5,8 @@
 - These rocks are found chiefly as an extensive cover over continents.
 - In sedimentary petrology, study of sedimentary / secondary rocks with reference to mineral and chemical composition, 
 
+You can find the rocks and its properties file in references which is developed by Dr. Sandeep A. Meshram, Associate Professor in Geology, COEP Technological University, Pune
+
 megascopic and microscopic properties, genesis is carried out.
 The rocks formed by the deposition of products of rocks weathering i.e. sediments are called as sedimentary rocks. Sedimentary rocks include rocks formed by accumulation of chemically precipitated or organically derived materials. Sedimentary rocks occur in layer and frequently contain fossils.
 ### Rock Weathering :
