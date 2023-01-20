@@ -9,12 +9,7 @@
 				"c": "Metamorphic rock",
 				"d": "No class of rock is termed so"
 			},
-			"explanations": {
-				"a": "Explanation ",
-				"b": "Explanation :Sedimentary rocks are also called secondary rocks. This group includes a wide variety of rocks formed by accumulation, compaction and consolidation of sediments.",
-				"c": "Explanation ",
-				"d": "Explanation "
-			},
+			
 			"correctAnswer": "b",
 			"difficulty": "beginner"
 		},
@@ -26,12 +21,7 @@
 				"c": "Metamorphic rock",
 				"d": "No class of rock in particular"
 			},
-			"explanations": {
-				"a": "Explanation ",
-				"b": "Explanation :Sedimentary rocks are known to cover as much as 75 percent of the surface of the earth the rest being covered by the igneous rocks and the metamorphic rocks.",
-				"c": "Explanation ",
-				"d": "Explanation "
-			},
+			
 			"correctAnswer": "b",
 			"difficulty": "beginner"
 		},
@@ -43,12 +33,7 @@
 				"c": "Elite rocks",
 				"d": "Mech rocks"
 			},
-			"explanations": {
-				"a": "Explanation :Sedimentary rocks are known to cover as much as 75 percent of the surface of the earth the rest being covered by the igneous rocks and the metamorphic rocks.",
-				"b": "Explanation ",
-				"c": "Explanation ",
-				"d": "Explanation "
-			},
+			
 			"correctAnswer": "a",
 			"difficulty": "beginner"
 		},
@@ -60,12 +45,7 @@
 				"c": "Continued evaporation",
 				"d": "Continued precipitation"
 			},
-			"explanations": {
-				"a": "Explanation ",
-				"b": "Explanation :Limestone may be formed by precipitation from carbonated water due to loss of carbon dioxide. Rock salt may be formed from sodium-chloride rich seawater merely by the process of continued evaporation.",
-				"c": "Explanation ",
-				"d": "Explanation "
-			},
+			
 			"correctAnswer": "b",
 			"difficulty": "beginner"
 		},
@@ -77,12 +57,7 @@
 				"c": "Shale",
 				"d": "Breccia"
 			},
-			"explanations": {
-				"a": "Explanation :Chemically formed rocks are of two types: precipitates and evaporites. Examples are limestones, rock salt, gypsum and anhydrite. ",
-				"b": "Explanation ",
-				"c": "Explanation ",
-				"d": "Explanation "
-			},
+			
 			"correctAnswer": "a",
 			"difficulty": "beginner"
 		},
@@ -94,12 +69,7 @@
 				"c": "Shale",
 				"d": "Breccia"
 			},
-			"explanations": {
-				"a": "Explanation ",
-				"b": "Explanation ",
-				"c": "Explanation ",
-				"d": "Explanation :Limestones are the best examples of organically formed sedimentary rocks. Generally, the evidence of the source material gets obliterated from these rocks with the passage of time."
-			},
+			
 			"correctAnswer": "d",
 			"difficulty": "beginner"
 		}
