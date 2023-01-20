@@ -1,0 +1,77 @@
+
+{
+	"version": 2.0,
+	"questions": [{
+			"question": "Which rock is also called secondary rock?",
+			"answers": {
+				"a": "Igneous rock",
+				"b": "Sedimentary rock",
+				"c": "Metamorphic rock",
+				"d": "No class of rock is termed so"
+			},
+			
+			"correctAnswer": "b",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "Which is the rock present in the majority on the surface of earth?",
+			"answers": {
+				"a": "Igneous rock",
+				"b": "Sedimentary rock",
+				"c": "Metamorphic rock",
+				"d": "No class of rock in particular"
+			},
+			
+			"correctAnswer": "b",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "What are the mechanically formed sedimentary rocks also called?",
+			"answers": {
+				"a": "Clastic rocks",
+				"b": "Non-clastic rocks",
+				"c": "Elite rocks",
+				"d": "Mech rocks"
+			},
+			
+			"correctAnswer": "a",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "Rock salt may be formed by",
+			"answers": {
+				"a": "Erosion",
+				"b": "Winds",
+				"c": "Continued evaporation",
+				"d": "Continued precipitation"
+			},
+			
+			"correctAnswer": "b",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "Example of chemically formed sedimentary rocks is ",
+			"answers": {
+				"a": "Gypsum",
+				"b": "Sandstone",
+				"c": "Shale",
+				"d": "Breccia"
+			},
+			
+			"correctAnswer": "a",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "Pick the organically formed sedimentary rock",
+			"answers": {
+				"a": "Shale",
+				"b": "Sandstone",
+				"c": "Shale",
+				"d": "Breccia"
+			},
+			
+			"correctAnswer": "d",
+			"difficulty": "beginner"
+		}
+	]
+}

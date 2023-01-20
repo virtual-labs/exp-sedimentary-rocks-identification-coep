@@ -1,0 +1,77 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Detrital rocks refer to which type of sedimentary rocks?",
+      "answers": {
+        "a": "Mechanically formed",
+        "b": "Organically formed",
+        "c": "Chemically formed",
+        "d": "Residual"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The important phenomenon that happens during deposition is ",
+      "answers": {
+        "a": "Settling",
+        "b": "Erosion",
+        "c": "Sorting",
+        "d": "Blowing"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Deposition takes place in which conditions?",
+      "answers": {
+        "a": "Ordinary pressure and temperature",
+        "b": "High temperature and low pressure",
+        "c": "High pressure and low temperature",
+        "d": "High pressure and high temperature"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "The layered arrangement in sedimentary rocks is called ",
+      "answers": {
+        "a": "Mud cracks",
+        "b": "Stratification",
+        "c": "Rain prints",
+        "d": "Ripple marks"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "The structure most prevalent to clastic rocks is ",
+      "answers": {
+        "a": "Nodular structure",
+        "b": "Geode structure",
+        "c": "Concretionary structure",
+        "d": "Lamination"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Lamination is structure formed in which type of sedimentary rocks?",
+      "answers": {
+        "a": "Fine grained",
+        "b": "Medium grained",
+        "c": "Coarse grained",
+        "d": "Nothing in particular"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
